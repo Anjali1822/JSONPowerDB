@@ -23,4 +23,4 @@ Primary key: Roll No.
  
  ## Release History Version - 1.0.0 Description - Saving Data in JPDB from HTML form
  
-<img src="https://github.com/Anjali1822/JSONPowerDB/blob/main/chrome_dot08aQcxC.png" height="100" width="100" >
+<img src="https://github.com/Anjali1822/JSONPowerDB/blob/main/chrome_dot08aQcxC.png" height="500" width="500" >
