@@ -3,6 +3,7 @@
 This is simple Student Enrollment Form that will store data in STUDENT-TABLE relation of SCHOOL-DB database. It takes user input from html page and saves the data in JPDP and data can be updated if data exist in JPDP.  We can perform CRUD operations on data.
 
 Input Fields: {Roll-No, Full-Name, Class, Birth-Date, Address, Enrollment-Date}
+<br>
 Primary key: Roll No.
 
 
